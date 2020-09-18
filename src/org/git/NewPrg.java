@@ -8,6 +8,8 @@ public class NewPrg {
 		int b = 10;		
 		int c = a+b;
 		System.out.println(c);
+		System.out.println(a);
+		System.out.println(b);
 		
 	}
 
